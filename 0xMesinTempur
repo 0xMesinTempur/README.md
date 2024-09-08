@@ -1,0 +1,23 @@
+# Nama Proyek
+
+Deskripsi singkat tentang proyek Anda dan tujuannya.
+
+## Fitur
+
+- Fitur 1
+- Fitur 2
+- Fitur 3
+
+## Instalasi
+
+Cara menginstal proyek Anda:
+
+```bash
+# Clone repository
+git clone https://github.com/username/nama-proyek.git
+
+# Masuk ke direktori
+cd nama-proyek
+
+# Instalasi dependensi
+npm install
